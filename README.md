@@ -1,10 +1,5 @@
 # Corona Virus Tracker & Advices App with Flutter
 
-![Alt text](./promo.jpg?raw=true "Corona Virus Tracker & Advices Flutter App")
-
-
-## Try the web app dev preview
-https://alfian-flutter-coronatracker.firebaseapp.com/
 
 ## Features
 - Current statistics of global total confirmed, deaths, recovered cases.
