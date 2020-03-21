@@ -10,9 +10,6 @@
 
 ## Requirements
 - Min of Flutter 1.12.3 beta channel.
-- iOS - Enable Google Maps for iOS API and set the API Key in `AppDelegate.swift`.
-- Android - Enable Google Maps for Android API and set the API Key in `AndroidManifest`.
-- Web - Enable Google Maps Javascript API and set API key in `index.html`
 
 ## Getting Started
 - Clone or download
